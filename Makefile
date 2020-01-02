@@ -1,6 +1,6 @@
 ##
 ## EPITECH PROJECT, 2019
-## MYFTP
+## NWP_myarpspoof_2018
 ## File description:
 ## Makefile
 ##
